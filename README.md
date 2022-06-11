@@ -1,16 +1,28 @@
-### Hi there 👋
+Hi 👋, I'm Boujbair Oussamae
+A passionate Data Science 
+Boujbair
 
-<!--
-**Boujbair/Boujbair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Boujbair
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Video classification app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning NLP,Deep Learning.
+
+👯 I’m looking for an internship at Data Science
+
+🤝 I’m looking for help with sharing my resume and portfolio
+
+👨‍💻 All of my projects are available at portfolio.
+
+💬 Ask me about Machine Learning, Deep Learning, NLP...
+
+📫 How to reach me oussamaeboujbair978@gmail.com
+
+
+Connect with me:
+https://www.linkedin.com/in/oussamae-boujbair-82a97a1b1/  https://www.kaggle.com/oussamaeboujbair
+
+Languages and Tools:
+css3 git hadoop html5 java kibana linux matlab mongodb mssql mysql pandas python scala scikit_learn seaborn spring tensorflow
+
+Boujbair
