@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Boujbair" alt="Boujbair" /></a> </p>
 
-- 🔭 I’m currently working on [Startup_Creation_Project_DataBoost](https://github.com/Boujbair/startup_creation_project)
+- 🔭 I’m currently working with blue team on ODC project (private repo)
 
 - 🌱 I’m currently learning **NLP,Deep Learning.
 
