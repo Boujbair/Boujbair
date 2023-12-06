@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Boujbair Oussamae</h1>
-<h3 align="center">A passionate Data Science</h3>
+<h3 align="center">A passionate Data Science/ Data Analyst/ Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Boujbair&label=Profile%20views&color=0e75b6&style=flat" alt="Boujbair" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Boujbair" alt="Boujbair" /></a> </p>
 
-- 🔭 I’m currently working with blue team on ODC project (private repo)
 
 - 🌱 I’m currently learning **NLP,Deep Learning.
 
-- 👯 I’m looking for an internship **at Data Science**
+- 👯 I’m looking for a full time job **at Data Science / Data Analysis**
 
 - 🤝 I’m looking for help with **sharing my resume and portfolio**
 
 - 👨‍💻 All of my projects are available at [portfolio.](portfolio.)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP,...
+- 💬 Ask me about **Machine Learning, SQL, Python, Power BI, Talend,...
 
 - 📫 How to reach me **oussamaeboujbair978@gmail.com**
 
