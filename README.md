@@ -6,11 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Boujbair" alt="Boujbair" /></a> </p>
 
 
-- 🌱 I’m currently learning **NLP,Deep Learning.
+- 🌱 I’m currently learning **LLM, LangChain, RAG ...
 
-- 👯 I’m looking for a full time job **at Data Science / Data Analysis**
-
-- 🤝 I’m looking for help with **sharing my resume and portfolio**
 
 - 👨‍💻 All of my projects are available at [portfolio.](portfolio.)
 
